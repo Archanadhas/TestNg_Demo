@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="6" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="266" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+    <groups>
+      <group name="socialsite">
+        <method signature="day1.facebook()[pri:0, instance:abc.day1@1814d18]" name="facebook" class="abc.day1"/>
+        <method signature="day1.whatsappchecking()[pri:0, instance:abc.day1@1814d18]" name="whatsappchecking" class="abc.day1"/>
+      </group> <!-- socialsite -->
+    </groups>
+    <test name="Test" duration-ms="266" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+      <class name="abc.day1">
+        <test-method status="PASS" signature="mobilelogin()[pri:0, instance:abc.day1@1814d18]" name="mobilelogin" is-config="true" duration-ms="47" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogin -->
+        <test-method status="PASS" signature="facebook()[pri:0, instance:abc.day1@1814d18]" name="facebook" duration-ms="31" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="Start()[pri:0, instance:abc.day1@1814d18]" name="Start" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="End()[pri:0, instance:abc.day1@1814d18]" name="End" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+        <test-method status="PASS" signature="Start()[pri:0, instance:abc.day1@1814d18]" name="Start" is-config="true" duration-ms="16" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="End()[pri:0, instance:abc.day1@1814d18]" name="End" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+        <test-method status="PASS" signature="whatsappchecking()[pri:0, instance:abc.day1@1814d18]" name="whatsappchecking" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsappchecking -->
+        <test-method status="PASS" signature="mobilesendingmessage()[pri:0, instance:abc.day1@1814d18]" name="mobilesendingmessage" duration-ms="15" depends-on-groups="socialsite" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilesendingmessage -->
+        <test-method status="PASS" signature="Start()[pri:0, instance:abc.day1@1814d18]" name="Start" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="End()[pri:0, instance:abc.day1@1814d18]" name="End" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+        <test-method status="PASS" signature="mobilelogout()[pri:0, instance:abc.day1@1814d18]" name="mobilelogout" is-config="true" duration-ms="0" started-at="2020-08-17T16:11:05 IST" finished-at="2020-08-17T16:11:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogout -->
+      </class> <!-- abc.day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
