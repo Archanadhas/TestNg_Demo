@@ -15,6 +15,7 @@ public class day1 {
 	{
 		System.out.println("belong to day1 method name mobile login");
 System.out.println("Change for git");
+System.out.println("Change for git");
 	}
 	@AfterTest
 	public void mobilelogout()
